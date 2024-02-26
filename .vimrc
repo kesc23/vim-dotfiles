@@ -18,7 +18,6 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'sheerun/vim-polyglot'
 Plug 'jayli/vim-easycomplete'
-Plug 'SirVer/ultisnips'
 Plug 'scrooloose/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 call plug#end()
